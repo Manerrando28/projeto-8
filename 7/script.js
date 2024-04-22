@@ -1,4 +1,4 @@
-let p1=prompt("digite seu poder");
+let p1=prompt("digite seu nome");
 let p2=prompt("digite seu poder");
 let p3=prompt("digite o nome de um vilao");
 let p4=prompt("digite um lugar");

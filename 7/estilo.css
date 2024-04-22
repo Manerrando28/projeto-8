@@ -7,9 +7,7 @@ body{
     background-color: #000;
     font-size: 30px;
     color: aqua;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   text-align: center;
 }
 p{
     background-image: linear-gradient(to right, aqua, purple);
